@@ -5,7 +5,7 @@ __Cara Setup__
 apt update -y && apt upgrade -y
 ```
 ```
-apt install wget -y && wget -O set "LINK RAW REPO MU" && chmod +x * && ./set
+apt install wget -y && wget -O set "https://raw.githubusercontent.com/Adhohim/Forward/main/setup" && chmod +x * && ./set
 ```
 
 __Cara Pakai__
